@@ -1,6 +1,6 @@
 # NinjaClass-1
 
-This is the first part of 3 in relations to learning OOP-
+This is the first part in relations to learning OOP-
 
 Instructions:
 Create a new object constructor called Ninja with the following attributes:
