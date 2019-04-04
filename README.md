@@ -1,4 +1,4 @@
-# NinjaClass-1
+# NinjaClass
 
 This is the first part in relations to learning OOP-
 
